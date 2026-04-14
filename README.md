@@ -1,0 +1,138 @@
+# Frontend Mentor Challenges
+
+Coding challenges from [FrontendMentor.io](https://www.frontendmentor.io/).
+
+## Easy level projects
+
+- 3-column preview card component
+- Advice generator app
+- Agency landing page
+- Age calculator app
+- Article preview component
+- Art gallery website
+- Base Apparel coming soon page
+- Bento grid
+- Blog preview card
+- Blogr landing page
+- Body Mass Index calculator
+- Browser extension manager UI
+- Character counter
+- Clipboard landing page
+- Coding bootcamp testimonials slider
+- Conference ticket generator
+- Contact form
+- Crowdfunding product page
+- Equalizer landing page
+- Expenses chart component
+- FAQ accordion
+- Four card feature section
+- Fylo dark theme landing page
+- Fylo data storage component
+- GitHub user search app
+- Huddle landing page with a single introductory section
+- Insure landing page
+- Interactive card details form
+- Interactive pricing component
+- Interactive rating component
+- Intro component with sign-up form
+- Intro section with dropdown navigation
+- Loopstudios landing page
+- Maker pre-launch landing page
+- Meet landing page
+- Mortgage repayment calculator
+- News homepage
+- Newsletter sign-up form with success message
+- NFT preview card component
+- Notifications page
+- Officelite coming soon site
+- Order summary component
+- Ping single column coming soon page
+- Pod request access landing page
+- Pricing component with toggle
+- Product list with cart
+- Product preview card component
+- Profile card component
+- Project tracking intro component
+- QR code challenge
+- Recipe page
+- Results summary component
+- Single price grid component
+- Single-page design portfolio
+- Single-page developer portfolio
+- Skilled e-learning landing page
+- Social links profile
+- Social media dashboard with theme switcher
+- Social proof section
+- Stats preview card component
+- Suite landing page
+- Tech book club landing page
+- Testimonials grid section
+- Time tracking dashboard
+- Tip calculator app
+- Typemaster pre-launch landing page
+- Typing speed test
+- Workit landing page
+
+## Medium level projects
+
+- Minimalist portfolio website
+- Digital bank landing page
+- Manage landing page
+- Password generator app
+- Room homepage
+- Chat app CSS illustration
+- Interactive comments section
+- Job listings with filtering
+- Bookmark landing page
+- E-commerce product page
+- Creative agency single-page site
+- Clock app
+- Dine restaurant website
+- URL shortening API landing page
+- Personal blog
+- Dictionary web app
+- Space tourism multi-page website
+- IP Address Tracker
+- Scoot multi-page website
+- Coffeeroasters subscription site
+- Launch countdown timer
+- Todo app
+- Savings tracker
+- Recipe finder website
+- Galleria slideshow site
+- Planets fact site
+- Calculator app
+- Weather app
+- Frontend Quiz app
+- In-browser markdown editor
+- Skills learning tracker
+- Flashcard app
+- Tic Tac Toe game
+
+## Hard level projects
+
+- myteam multi-page website
+- Devjobs web app
+- PayAPI multi-page website
+- Multi-step form
+- REST Countries API with color theme switcher
+- Bookmark manager app
+- Mood tracking app
+- Pomodoro app
+- Photosnap multi-page website
+- Arch Studio multi-page website
+- Entertainment web app
+- Rock, Paper, Scissors game
+- Hangman game
+- Connect Four game
+- Memory game
+- Note-taking web app
+- Personal reading list
+- RSS feed reader
+- Designo multi-page website
+- Link-sharing app
+- Product feedback app
+- Audiophile e-commerce website
+- Invoice app
+- Personal finance app
+- Kanban task management web app

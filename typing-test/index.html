@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- displays site properly based on user's device -->
+
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./assets/images/favicon-32x32.png"
+    />
+
+    <title>Frontend Mentor | Typing Speed Test</title>
+
+    <style>
+      .attribution {
+        font-size: 11px;
+        text-align: center;
+      }
+      .attribution a {
+        color: hsl(228, 72%, 73%);
+      }
+    </style>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main>
+      <header>
+        <picture class="header-logo">
+          <source media="(min-width:800px)" srcset="./assets/images/logo-large.svg">
+          <source media="(min-width: 320px)" srcset="./assets/images/logo-small.svg">
+          <img src="./assets/images/logo-large.svg" alt="logo">
+        </picture>
+
+        <div class="header-score">
+          <div class="score-img"></div>
+          <div class="title-wpm">
+            <p class="score-title">Personal best:</p>
+            <p class="score-title-mobile">Best:</p>
+            <p class="score-wpm"></p>
+          </div>
+        </div>
+      </header>
+
+      <section class="section__menu-container">
+        <!-- === Menu Bar: left === -->
+        <div class="menu-section menu-left">
+          <!-- === WPM === -->
+          <div class="menu-tab pad-right">
+            <p class="tab-title">WPM:</p>
+            <p class="tab-score wpm-score">0</p>
+          </div>
+
+          <!-- === Accuracy === -->
+          <div class="menu-tab pad-right">
+            <p class="tab-title">Accuracy:</p>
+            <p class="tab-score accuracy-score">100%</p>
+          </div>
+
+          <!-- === Time === -->
+          <div class="menu-tab last-tab"">
+            <p class="tab-title">Time:</p>
+            <p class="tab-score time-count">0:00</p>
+          </div>
+        </div>
+
+        <!-- === Menu Bar: right === -->
+
+        <div class="menu-section menu-right" id="desktop-menu">
+          <!-- === Difficulty === -->
+          <div class="menu-tab pad-right">
+            <p class="tab-title-small">Difficulty:</p>
+            <div class="chips-container">
+              <p class="chip-item difficulty selected">Easy</p>
+              <p class="chip-item difficulty" id="medium">Medium</p>
+              <p class="chip-item difficulty">Hard</p>
+            </div>
+          </div>
+
+          <!-- === Mode === -->
+          <div class="menu-tab last-tab">
+            <p class="tab-title-small">Mode:</p>
+            <div class="chips-container"">
+              <p class="chip-item mode selected">Timed (60s)</p>
+              <p class="chip-item mode"id="passage" >Passage</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- === mobile menu bar right === -->
+<div class="menu-section menu-right" id="mobile-menu">
+          <!-- === Difficulty === -->
+          <div class="menu-tab pad-right">
+            <p class="tab-title-small">Difficulty:</p>
+            <div class="mobile-title" id="title-difficulty">Easy</div>
+            <div class="chips-container" id="difficulty-menu">
+              <p class="chip-item difficulty selected">Easy</p>
+              <p class="chip-item difficulty" id="medium">Medium</p>
+              <p class="chip-item difficulty">Hard</p>
+            </div>
+          </div>
+
+          <!-- === Mode === -->
+          <div class="menu-tab last-tab">
+            <p class="tab-title-small">Mode:</p>
+             <div class="mobile-title" id="title-time">Timed (60s)</div>
+            <div class="chips-container" id="time-menu">
+              <p class="chip-item mode selected">Timed (60s)</p>
+              <p class="chip-item mode"id="passage" >Passage</p>
+            </div>
+          </div>
+
+
+      </section>
+
+
+
+      <!-- === typing section === -->
+      <section class="section__typing">
+        <div class="btn-text flex">
+          <button type="button" class="start-btn">Start Typing Test</button>
+          <div class="start-text">Or click the text and start typing</div></div>
+
+        <div class="typing-text blur-text">
+        </div>
+
+        <textarea name="input-container" class="input-container"></textarea>
+      </section>
+
+<div class="error-modal hide"><div class="error-close"></div>Oops, something is wrong... Try again later!</div>
+<hr class="hide"></hr>
+
+<div class="btns hide">
+<!-- === Stop Timer === -->
+        <!-- <button type = "button" class="stop-timer ">Stop Timer</button> -->
+      <!-- === Restart Button === -->
+      <button type="button" class="restart-btn">
+        Restart Test
+        <img src="./assets/images/icon-restart.svg" alt="restart" />
+      </button>
+    
+      <!-- === View Results === -->
+        <button type = "button" class="stop-timer" id="results-btn">View Results</button>
+    </div>
+
+      <!-- === results modal popup === -->
+
+      <section class="section__complete hide">
+        <div class="check-circle"></div>
+        <div class="high-score-mark hide"></div>
+        <h1></h1>
+        <h2></h2>
+
+        <div class="score-cards">
+          <!-- === WPM card === -->
+          <div class="card">
+            <p class="card-title">WPM:</p>
+            <p class="card-score card-wpm-score"></p>
+          </div>
+
+          <!-- === Accuracy card === -->
+          <div class="card">
+            <p class="card-title">Accuracy:</p>
+            <p class="card-score card-accuracy-score"></p>
+          </div>
+
+          <!-- === Character card === -->
+          <div class="card">
+            <p class="card-title">Characters:</p>
+            <p class="card-score card-characters-score" id="card-correct-char">
+              <span class="span-gray"> /</span
+              ><span class="span-red" id="card-wrong-char"></span>
+            </p>
+          </div>
+        </div>
+
+
+        <button type="button" class="variable-btn">
+
+          <img src="./assets/images/icon-restart-gray.svg" alt="restart" />
+        </button>
+        <!-- <button type="button" class="restart-btn" id="clear-storage">Clear Personal Best</button> -->
+      </section>
+
+
+    </main>
+    <footer class="attribution hide">
+      Challenge by
+      <a href="https://www.frontendmentor.io?ref=challenge">Frontend Mentor</a>.
+      Coded by KA.
+    </footer>
+    <script src="./main.js"></script>
+  </body>
+</html>
