@@ -73,7 +73,7 @@ Coding challenges from [FrontendMentor.io](https://www.frontendmentor.io/).
 - Typing speed test
 - Workit landing page
 
-## Medium level projects
+## Intermediate level projects
 
 - Minimalist portfolio website
 - Digital bank landing page
@@ -108,8 +108,9 @@ Coding challenges from [FrontendMentor.io](https://www.frontendmentor.io/).
 - Skills learning tracker
 - Flashcard app
 - Tic Tac Toe game
+- Savings tracker
 
-## Hard level projects
+## Advanced level projects
 
 - myteam multi-page website
 - Devjobs web app
@@ -129,10 +130,13 @@ Coding challenges from [FrontendMentor.io](https://www.frontendmentor.io/).
 - Note-taking web app
 - Personal reading list
 - RSS feed reader
+
+## Guru level projects
+
 - Designo multi-page website
+- Personal finance app
 - Link-sharing app
+- Kanban task management web app
 - Product feedback app
 - Audiophile e-commerce website
 - Invoice app
-- Personal finance app
-- Kanban task management web app
