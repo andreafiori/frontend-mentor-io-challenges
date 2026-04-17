@@ -152,12 +152,12 @@ export default {
           headerIcon: headerIcon,
           navIcon: navIcon,
           projectUrl:
-            "https://catherineisonline.github.io/frontend-mentor-challenge-solutions/",
+            "https://andreafiori.github.io/frontend-mentor-challenge-solutions/",
           frontendMentorUrl:
-            "https://www.frontendmentor.io/profile/catherineisonline",
+            "https://www.frontendmentor.io/profile/andreafiori",
           gitHubUrl:
-            "https://github.com/catherineisonline/frontend-mentor-challenge-solutions",
-          linkedinUrl: "https://www.linkedin.com/in/catherinemitagvaria/",
+            "https://github.com/andreafiori/frontend-mentor-challenge-solutions",
+          linkedinUrl: "https://www.linkedin.com/in/andreafiori/",
         },
       ],
       solutions: [
@@ -171,7 +171,7 @@ export default {
           projectLink:
             "https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62",
           repoLink:
-            "https://github.com/catherineisonline/frontend-mentor-challenge-solutions/tree/main/stats-preview-card",
+            "https://github.com/andreafiori/frontend-mentor-challenge-solutions/tree/main/stats-preview-card",
         },
         {
           id: 2,
@@ -183,7 +183,7 @@ export default {
           projectLink:
             "https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj",
           repoLink:
-            "https://github.com/catherineisonline/frontend-mentor-challenge-solutions/tree/main/order-summary-component",
+            "https://github.com/andreafiori/frontend-mentor-challenge-solutions/tree/main/order-summary-component",
         },
         {
           id: 3,
@@ -195,7 +195,7 @@ export default {
           projectLink:
             "https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ",
           repoLink:
-            "https://github.com/catherineisonline/frontend-mentor-challenge-solutions/tree/main/profile-card",
+            "https://github.com/andreafiori/frontend-mentor-challenge-solutions/tree/main/profile-card",
         },
         {
           id: 4,
@@ -207,7 +207,7 @@ export default {
           projectLink:
             "https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc",
           repoLink:
-            "https://github.com/catherineisonline/frontend-mentor-challenge-solutions/tree/main/single-price-grid",
+            "https://github.com/andreafiori/frontend-mentor-challenge-solutions/tree/main/single-price-grid",
         },
         {
           id: 5,
@@ -219,7 +219,7 @@ export default {
           projectLink:
             "https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-",
           repoLink:
-            "https://github.com/catherineisonline/frontend-mentor-challenge-solutions/tree/main/three-column-card",
+            "https://github.com/andreafiori/frontend-mentor-challenge-solutions/tree/main/three-column-card",
         },
         {
           id: 6,
@@ -231,7 +231,7 @@ export default {
           projectLink:
             "https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA",
           repoLink:
-            "https://github.com/catherineisonline/frontend-mentor-challenge-solutions/tree/main/social-proof-section",
+            "https://github.com/andreafiori/frontend-mentor-challenge-solutions/tree/main/social-proof-section",
         },
         {
           id: 7,
@@ -243,7 +243,7 @@ export default {
           projectLink:
             "https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK",
           repoLink:
-            "https://github.com/catherineisonline/frontend-mentor-challenge-solutions/tree/main/four-card-feature-section",
+            "https://github.com/andreafiori/frontend-mentor-challenge-solutions/tree/main/four-card-feature-section",
         },
         {
           id: 8,
@@ -255,7 +255,7 @@ export default {
           projectLink:
             "https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U",
           repoLink:
-            "https://github.com/catherineisonline/frontend-mentor-challenge-solutions/tree/main/nft-preview-card",
+            "https://github.com/andreafiori/frontend-mentor-challenge-solutions/tree/main/nft-preview-card",
         },
         {
           id: 9,
@@ -267,7 +267,7 @@ export default {
           projectLink:
             "https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0",
           repoLink:
-            "https://github.com/catherineisonline/frontend-mentor-challenge-solutions/tree/main/huddle-landing-page",
+            "https://github.com/andreafiori/frontend-mentor-challenge-solutions/tree/main/huddle-landing-page",
         },
         {
           id: 10,
@@ -279,7 +279,7 @@ export default {
           projectLink:
             "https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n",
           repoLink:
-            "https://github.com/catherineisonline/frontend-mentor-challenge-solutions/tree/main/fylo-data-storage",
+            "https://github.com/andreafiori/frontend-mentor-challenge-solutions/tree/main/fylo-data-storage",
         },
         {
           id: 11,
@@ -291,7 +291,7 @@ export default {
           projectLink:
             "https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H",
           repoLink:
-            "https://github.com/catherineisonline/frontend-mentor-challenge-solutions/tree/main/qr-code-component",
+            "https://github.com/andreafiori/frontend-mentor-challenge-solutions/tree/main/qr-code-component",
         },
         {
           id: 12,
@@ -303,7 +303,7 @@ export default {
           projectLink:
             "https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7",
           repoLink:
-            "https://github.com/catherineisonline/frontend-mentor-challenge-solutions/tree/main/testimonials-grid",
+            "https://github.com/andreafiori/frontend-mentor-challenge-solutions/tree/main/testimonials-grid",
         },
         {
           id: 13,
@@ -315,7 +315,7 @@ export default {
           projectLink:
             "https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0",
           repoLink:
-            "https://github.com/catherineisonline/frontend-mentor-challenge-solutions/tree/main/ip-address-tracker",
+            "https://github.com/andreafiori/frontend-mentor-challenge-solutions/tree/main/ip-address-tracker",
         },
         {
           id: 14,
@@ -327,7 +327,7 @@ export default {
           projectLink:
             "https://www.frontendmentor.io/challenges/url-shortening-api-landing-page-2ce3ob-G",
           repoLink:
-            "https://github.com/catherineisonline/frontend-mentor-challenge-solutions/tree/main/url-shortening-api",
+            "https://github.com/andreafiori/frontend-mentor-challenge-solutions/tree/main/url-shortening-api",
         },
         {
           id: 15,
@@ -339,7 +339,7 @@ export default {
           projectLink:
             "https://www.frontendmentor.io/solutions/article-preview-component-USFNBjIaV",
           repoLink:
-            "https://github.com/catherineisonline/frontend-mentor-challenge-solutions/tree/main/article-preview-component",
+            "https://github.com/andreafiori/frontend-mentor-challenge-solutions/tree/main/article-preview-component",
         },
         {
           id: 16,
@@ -351,7 +351,7 @@ export default {
           projectLink:
             "https://www.frontendmentor.io/solutions/ping-coming-soon-page-iKops4Jwj",
           repoLink:
-            "https://github.com/catherineisonline/frontend-mentor-challenge-solutions/tree/main/ping-coming-soon-page",
+            "https://github.com/andreafiori/frontend-mentor-challenge-solutions/tree/main/ping-coming-soon-page",
         },
         {
           id: 17,
@@ -363,7 +363,7 @@ export default {
           projectLink:
             "https://www.frontendmentor.io/solutions/faq-accordion-card-tFrPJh5hD",
           repoLink:
-            "https://github.com/catherineisonline/frontend-mentor-challenge-solutions/tree/main/faq-accordion-card",
+            "https://github.com/andreafiori/frontend-mentor-challenge-solutions/tree/main/faq-accordion-card",
         },
         {
           id: 18,
@@ -375,7 +375,7 @@ export default {
           projectLink:
             "https://www.frontendmentor.io/solutions/base-apparel-coming-soon-page-KdvKyw8NE",
           repoLink:
-            "https://github.com/catherineisonline/frontend-mentor-challenge-solutions/tree/main/base-apparel-coming-soon",
+            "https://github.com/andreafiori/frontend-mentor-challenge-solutions/tree/main/base-apparel-coming-soon",
         },
         {
           id: 19,
@@ -387,7 +387,7 @@ export default {
           projectLink:
             "https://www.frontendmentor.io/solutions/advice-generator-app-wYjTeAeAf",
           repoLink:
-            "https://github.com/catherineisonline/frontend-mentor-challenge-solutions/tree/main/advice-generator-app",
+            "https://github.com/andreafiori/frontend-mentor-challenge-solutions/tree/main/advice-generator-app",
         },
         {
           id: 20,
@@ -399,7 +399,7 @@ export default {
           projectLink:
             "https://www.frontendmentor.io/solutions/intro-component-with-signup-form-BfhVbWQEM",
           repoLink:
-            "https://github.com/catherineisonline/frontend-mentor-challenge-solutions/tree/main/intro-component-with-sign-up",
+            "https://github.com/andreafiori/frontend-mentor-challenge-solutions/tree/main/intro-component-with-sign-up",
         },
         {
           id: 21,
@@ -411,7 +411,7 @@ export default {
           projectLink:
             "https://www.frontendmentor.io/solutions/pricing-component-with-toggle-IUaYc_2FA",
           repoLink:
-            "https://github.com/catherineisonline/frontend-mentor-challenge-solutions/tree/main/pricing-component",
+            "https://github.com/andreafiori/frontend-mentor-challenge-solutions/tree/main/pricing-component",
         },
         {
           id: 22,
@@ -423,7 +423,7 @@ export default {
           projectLink:
             "https://www.frontendmentor.io/solutions/sunnyside-agency-landing-page-QfXrSGu5A",
           repoLink:
-            "https://github.com/catherineisonline/frontend-mentor-challenge-solutions/tree/main/sunnyside-agency-landing",
+            "https://github.com/andreafiori/frontend-mentor-challenge-solutions/tree/main/sunnyside-agency-landing",
         },
         {
           id: 23,
@@ -435,7 +435,7 @@ export default {
           projectLink:
             "https://www.frontendmentor.io/solutions/fylo-dark-theme-landing-page-97wbDcVX8",
           repoLink:
-            "https://github.com/catherineisonline/frontend-mentor-challenge-solutions/tree/main/fylo-dark-theme",
+            "https://github.com/andreafiori/frontend-mentor-challenge-solutions/tree/main/fylo-dark-theme",
         },
         {
           id: 24,
@@ -447,7 +447,7 @@ export default {
           projectLink:
             "https://www.frontendmentor.io/solutions/rest-countries-api-with-color-theme-switcher-SySqXmn49",
           repoLink:
-            "https://github.com/catherineisonline/frontend-mentor-challenge-solutions/tree/main/rest-countries",
+            "https://github.com/andreafiori/frontend-mentor-challenge-solutions/tree/main/rest-countries",
         },
         {
           id: 25,
@@ -459,7 +459,7 @@ export default {
           projectLink:
             "https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI",
           repoLink:
-            "https://github.com/catherineisonline/frontend-mentor-challenge-solutions/tree/main/interactive-rating-component",
+            "https://github.com/andreafiori/frontend-mentor-challenge-solutions/tree/main/interactive-rating-component",
         },
         {
           id: 26,
@@ -471,7 +471,7 @@ export default {
           projectLink:
             "https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29",
           repoLink:
-            "https://github.com/catherineisonline/frontend-mentor-challenge-solutions/tree/refactor/calculator",
+            "https://github.com/andreafiori/frontend-mentor-challenge-solutions/tree/refactor/calculator",
         },
 
         {
@@ -484,7 +484,7 @@ export default {
           projectLink:
             "https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa",
           repoLink:
-            "https://github.com/catherineisonline/frontend-mentor-challenge-solutions/tree/refactor/product-preview-card",
+            "https://github.com/andreafiori/frontend-mentor-challenge-solutions/tree/refactor/product-preview-card",
         },
         {
           id: 28,
@@ -496,7 +496,7 @@ export default {
           projectLink:
             "https://www.frontendmentor.io/challenges/crowdfunding-product-page-7uvcZe7ZR",
           repoLink:
-            "https://github.com/catherineisonline/frontend-mentor-challenge-solutions/tree/refactor/crowdfunding-product-page",
+            "https://github.com/andreafiori/frontend-mentor-challenge-solutions/tree/refactor/crowdfunding-product-page",
         },
         {
           id: 29,
@@ -508,7 +508,7 @@ export default {
           projectLink:
             "https://www.frontendmentor.io/challenges/huddle-landing-page-with-alternating-feature-blocks-5ca5f5981e82137ec91a5100",
           repoLink:
-            "https://github.com/catherineisonline/frontend-mentor-challenge-solutions/tree/refactor/huddle-page-with-blocks",
+            "https://github.com/andreafiori/frontend-mentor-challenge-solutions/tree/refactor/huddle-page-with-blocks",
         },
         {
           id: 30,
@@ -520,7 +520,7 @@ export default {
           projectLink:
             "https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl",
           repoLink:
-            "https://github.com/catherineisonline/frontend-mentor-challenge-solutions/tree/refactor/news-homepage",
+            "https://github.com/andreafiori/frontend-mentor-challenge-solutions/tree/refactor/news-homepage",
         },
         {
           id: 31,
@@ -532,7 +532,7 @@ export default {
           projectLink:
             "https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5",
           repoLink:
-            "https://github.com/catherineisonline/frontend-mentor-challenge-solutions/tree/refactor/intro-section-with-dropdown",
+            "https://github.com/andreafiori/frontend-mentor-challenge-solutions/tree/refactor/intro-section-with-dropdown",
         },
         {
           id: 32,
@@ -544,7 +544,7 @@ export default {
           projectLink:
             "https://www.frontendmentor.io/challenges/fylo-landing-page-with-two-column-layout-5ca5ef041e82137ec91a50f5",
           repoLink:
-            "https://github.com/catherineisonline/frontend-mentor-challenge-solutions/tree/refactor/fylo-landing-with-two-columns",
+            "https://github.com/andreafiori/frontend-mentor-challenge-solutions/tree/refactor/fylo-landing-with-two-columns",
         },
       ],
     };

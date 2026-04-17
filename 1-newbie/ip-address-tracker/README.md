@@ -1,4 +1,4 @@
-![IP Address Tracker](https://github.com/catherineisonline/ip-address-tracker-frontendmentor/blob/main/images/project-preview.png?raw=true)
+![IP Address Tracker](https://github.com/andreafiori/ip-address-tracker-frontendmentor/blob/main/images/project-preview.png?raw=true)
 
 <h1 align="center">IP Address Tracker</h1>
 
@@ -36,7 +36,7 @@ I do not have access to the Figma sketch so the design is not pixel perfect.
 
 ## What I learned
 
-This is my very first project on Frontend Mentor using API. I decided to spend more time on it from now on. I already have a project using API which was my very first experience, you can check it [here](https://github.com/catherineisonline/covid19-awareness) I decided not to spend too much time and effort on the design as my main goal here is practicing API.
+This is my very first project on Frontend Mentor using API. I decided to spend more time on it from now on. I already have a project using API which was my very first experience, you can check it [here](https://github.com/andreafiori/covid19-awareness) I decided not to spend too much time and effort on the design as my main goal here is practicing API.
 
 # Important Update
 

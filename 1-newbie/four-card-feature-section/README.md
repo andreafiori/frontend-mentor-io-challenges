@@ -1,4 +1,4 @@
-![Four card feature section](https://github.com/catherineisonline/four-card-feature-section-frontendmentor/blob/main/images/project%20preview.png?raw=true)
+![Four card feature section](https://github.com/andreafiori/four-card-feature-section-frontendmentor/blob/main/images/project%20preview.png?raw=true)
 
 <h1 align="center">Four card feature section</h1>
 

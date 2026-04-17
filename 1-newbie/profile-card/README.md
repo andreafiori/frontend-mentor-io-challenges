@@ -1,4 +1,4 @@
-![Profile card component](https://github.com/catherineisonline/profile-card-component-frontendmentor/blob/main/images/project-preview.png?raw=true)
+![Profile card component](https://github.com/andreafiori/profile-card-component-frontendmentor/blob/main/images/project-preview.png?raw=true)
 
 <h1 align="center">Profile card component</h1>
 

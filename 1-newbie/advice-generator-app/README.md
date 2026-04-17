@@ -1,4 +1,4 @@
-<img src="https://github.com/catherineisonline/advice-generator-app-frontendmentor/blob/main/images/project-preview.png?raw=true"></img>
+<img src="https://github.com/andreafiori/advice-generator-app-frontendmentor/blob/main/images/project-preview.png?raw=true"></img>
 
 <h1 align="center">Advice generator app</h1>
 

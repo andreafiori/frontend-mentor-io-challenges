@@ -1,4 +1,4 @@
-![Multi-step Form](https://github.com/catherineisonline/multi-step-form-frontendmentor/blob/main/src/assets/preview.png?raw=true)
+![Multi-step Form](https://github.com/andreafiori/multi-step-form-frontendmentor/blob/main/src/assets/preview.png?raw=true)
 
 <h1 align="center">Multi-step Form</h1>
 

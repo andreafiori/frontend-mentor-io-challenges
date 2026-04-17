@@ -7,7 +7,7 @@
 // const port = 3000;
 // const SHORTENER_API_URL = process.env.SHORTENER_API_URL;
 // const SHORTENER_API_KEY = process.env.SHORTENER_API_KEY;
-// const allowedOrigins = ['https://catherineisonline.github.io', 'http://localhost:3000', 'http://127.0.0.1:8080/'];
+// const allowedOrigins = ['https://andreafiori.github.io', 'http://localhost:3000', 'http://127.0.0.1:8080/'];
 
 // app.use(cors());
 // app.use(json());

@@ -1,4 +1,4 @@
-<img src="https://github.com/catherineisonline/sunnyside-agency-landing-page-frontendmentor/blob/main/images/project-preview.png?raw=true"></img>
+<img src="https://github.com/andreafiori/sunnyside-agency-landing-page-frontendmentor/blob/main/images/project-preview.png?raw=true"></img>
 
 <h1 align="center">Sunnyside Agency Landing Page</h1>
 

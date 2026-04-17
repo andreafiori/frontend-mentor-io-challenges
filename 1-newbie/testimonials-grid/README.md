@@ -1,4 +1,4 @@
-<img src="https://github.com/catherineisonline/testimonials-grid-section-frontendmentor/blob/master/images/project-preview.png?raw=true"></img>
+<img src="https://github.com/andreafiori/testimonials-grid-section-frontendmentor/blob/master/images/project-preview.png?raw=true"></img>
 
 <h1 align="center">Testimonials Grid Section</h1>
 

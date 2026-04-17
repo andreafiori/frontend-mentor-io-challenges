@@ -1,4 +1,4 @@
-![Social links profile](https://github.com/catherineisonline/social-links-profile-frontendmentor/blob/main/assets/preview.jpg?raw=true)
+![Social links profile](https://github.com/andreafiori/social-links-profile-frontendmentor/blob/main/assets/preview.jpg?raw=true)
 
 <h1 align="center">Social links profile</h1>
 

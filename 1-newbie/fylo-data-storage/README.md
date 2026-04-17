@@ -1,4 +1,4 @@
-![Fylo data storage component](https://github.com/catherineisonline/fylo-data-storage-component-frontendmentor/blob/main/images/project-preview.png?raw=true)
+![Fylo data storage component](https://github.com/andreafiori/fylo-data-storage-component-frontendmentor/blob/main/images/project-preview.png?raw=true)
 
 <h1 align="center">Fylo data storage component</h1>
 

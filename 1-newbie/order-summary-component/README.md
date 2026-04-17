@@ -1,4 +1,4 @@
-![Order Summary Component](https://github.com/catherineisonline/order-summary-component-frontendmentor/blob/main/images/project-preview.png?raw=true)
+![Order Summary Component](https://github.com/andreafiori/order-summary-component-frontendmentor/blob/main/images/project-preview.png?raw=true)
 
 <h1 align="center">Order Summary Component</h1>
 

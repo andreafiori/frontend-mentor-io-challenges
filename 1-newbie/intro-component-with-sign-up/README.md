@@ -1,4 +1,4 @@
-<img src="https://github.com/catherineisonline/intro-component-with-sign-up-form-frontendmentor/blob/main/images/project-preview.png?raw=true"></img>
+<img src="https://github.com/andreafiori/intro-component-with-sign-up-form-frontendmentor/blob/main/images/project-preview.png?raw=true"></img>
 
 <h1 align="center">Intro Components With Sign-up Form</h1>
 

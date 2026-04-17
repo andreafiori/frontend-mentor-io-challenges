@@ -1,4 +1,4 @@
-<img src="https://github.com/catherineisonline/social-proof-section-frontendmentor/blob/main/images/project-preview.png?raw=true" ></img>
+<img src="https://github.com/andreafiori/social-proof-section-frontendmentor/blob/main/images/project-preview.png?raw=true" ></img>
 
 <h1 align="center">Social proof section</h1>
 
