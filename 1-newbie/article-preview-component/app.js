@@ -1,30 +1,64 @@
 "use strict";
 
-const shareBtn = document.querySelector(".share-btn");
-const hiddenShareBtn = document.querySelector(".hidden-share-btn");
-const shareSection = document.querySelector(".share-section");
-const shareLink = document.querySelector(".share-link");
-const socialMediaSection = document.querySelector(".social-icons");
+class ShareMenu {
+  constructor({
+    shareBtnSelector,
+    hiddenShareBtnSelector,
+    shareSectionSelector,
+    shareLinkSelector,
+    socialMediaSelector,
+  }) {
+    this.shareBtn = document.querySelector(shareBtnSelector);
+    this.hiddenShareBtn = document.querySelector(hiddenShareBtnSelector);
+    this.shareSection = document.querySelector(shareSectionSelector);
+    this.shareLink = document.querySelector(shareLinkSelector);
+    this.socialMediaSection = document.querySelector(socialMediaSelector);
 
-const toggleSection = () => shareSection.classList.toggle("shown");
-const removeHiddenSection = () => shareSection.classList.remove("shown");
-
-
-shareBtn.addEventListener("click", function () {
-  toggleSection();
-});
-hiddenShareBtn.addEventListener("click", function () {
-  toggleSection();
-});
-
-
-//Hide section event
-document.addEventListener("click", function (e) {
-  let targetSection = shareBtn.contains(e.target);
-  let showntargetSection = hiddenShareBtn.contains(e.target);
-  let sharableLink = shareLink.contains(e.target);
-  let socialIcons = socialMediaSection.contains(e.target);
-  if (!showntargetSection && !targetSection && !sharableLink && !socialIcons) {
-    removeHiddenSection();
+    this.init();
   }
+
+  init() {
+    if (
+      !this.shareBtn ||
+      !this.hiddenShareBtn ||
+      !this.shareSection ||
+      !this.shareLink ||
+      !this.socialMediaSection
+    ) {
+      console.warn("ShareMenu: one or more elements were not found.");
+      return;
+    }
+
+    this.shareBtn.addEventListener("click", () => this.toggle());
+    this.hiddenShareBtn.addEventListener("click", () => this.toggle());
+    document.addEventListener("click", (e) => this.handleOutsideClick(e));
+  }
+
+  toggle() {
+    this.shareSection.classList.toggle("shown");
+  }
+
+  hide() {
+    this.shareSection.classList.remove("shown");
+  }
+
+  handleOutsideClick(event) {
+    const clickedInside =
+      this.shareBtn.contains(event.target) ||
+      this.hiddenShareBtn.contains(event.target) ||
+      this.shareLink.contains(event.target) ||
+      this.socialMediaSection.contains(event.target);
+
+    if (!clickedInside) {
+      this.hide();
+    }
+  }
+}
+
+new ShareMenu({
+  shareBtnSelector: ".share-btn",
+  hiddenShareBtnSelector: ".hidden-share-btn",
+  shareSectionSelector: ".share-section",
+  shareLinkSelector: ".share-link",
+  socialMediaSelector: ".social-icons",
 });
