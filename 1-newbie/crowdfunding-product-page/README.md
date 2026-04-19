@@ -1,4 +1,4 @@
-![Crowdfunding product page](https://github.com/catherineisonline/crowdfunding-product-page-frontendmentor/blob/main/images/project-preview.png?raw=true)
+![Crowdfunding product page](https://github.com/andreafiori/crowdfunding-product-page-frontendmentor/blob/main/images/project-preview.png?raw=true)
 
 # Crowdfunding product page
 

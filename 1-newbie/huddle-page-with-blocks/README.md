@@ -1,4 +1,4 @@
-![Huddle landing page with alternating feature blocks](https://github.com/catherineisonline/huddle-landing-page-with-feature-blocks-frontendmentor/blob/main/images/project-preview.png?raw=true)
+![Huddle landing page with alternating feature blocks](https://github.com/andreafiori/huddle-landing-page-with-feature-blocks-frontendmentor/blob/main/images/project-preview.png?raw=true)
 
 <h1 align="center">Huddle landing page with alternating feature blocks</h1>
 

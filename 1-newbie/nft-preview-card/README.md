@@ -1,4 +1,4 @@
-<img src="https://github.com/catherineisonline/nft-preview-card-frontendmentor/blob/main/images/project-preview.png?raw=true"></img>
+<img src="https://github.com/andreafiori/nft-preview-card-frontendmentor/blob/main/images/project-preview.png?raw=true"></img>
 
 <h1 align="center">NFT preview card component</h1>
 

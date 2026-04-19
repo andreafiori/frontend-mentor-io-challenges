@@ -1,4 +1,4 @@
-![Single Price Grid Component](https://github.com/catherineisonline/single-price-grid-component-frontendmentor/blob/main/images/project-preview.png?raw=true)
+![Single Price Grid Component](https://github.com/andreafiori/single-price-grid-component-frontendmentor/blob/main/images/project-preview.png?raw=true)
 
 <h1 align="center">Single Price Grid Component</h1>
 

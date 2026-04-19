@@ -1,4 +1,4 @@
-<img src="https://github.com/catherineisonline/article-preview-component-frontendmentor/blob/main/images/project-preview.png?raw=true"></img>
+<img src="https://github.com/andreafiori/article-preview-component-frontendmentor/blob/main/images/project-preview.png?raw=true"></img>
 
 <h1 align="center">Article preview component</h1>
 

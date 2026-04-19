@@ -1,4 +1,4 @@
-<img src="https://github.com/catherineisonline/ping-coming-soon-page-frontendmentor/blob/main/images/project-preview.png?raw=true"></img>
+<img src="https://github.com/andreafiori/ping-coming-soon-page-frontendmentor/blob/main/images/project-preview.png?raw=true"></img>
 
 <h1 align="center">Ping Coming Soon Page</h1>
 

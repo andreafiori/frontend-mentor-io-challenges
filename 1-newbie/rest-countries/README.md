@@ -1,4 +1,4 @@
-![Rest Countries](https://github.com/catherineisonline/rest-countries/blob/main/public/project-preview.png?raw=true")
+![Rest Countries](https://github.com/andreafiori/rest-countries/blob/main/public/project-preview.png?raw=true")
 
 # REST Countries API with color theme switcher
 
@@ -54,7 +54,7 @@ I also finally started to understand how to use states depending on whether it's
 
 ## Contribution
 
-This project serves as a project to show off my personal skills. I do not accept any contributions like pull requests to this project however if you have any suggestions or ideas feel free to message me or submit an idea in the [discussions](https://github.com/catherineisonline/rest-countries/discussions). Otherwise, you are free to fork this project and change it for your own purposes.
+This project serves as a project to show off my personal skills. I do not accept any contributions like pull requests to this project however if you have any suggestions or ideas feel free to message me or submit an idea in the [discussions](https://github.com/andreafiori/rest-countries/discussions). Otherwise, you are free to fork this project and change it for your own purposes.
 
 ## Useful resources
 

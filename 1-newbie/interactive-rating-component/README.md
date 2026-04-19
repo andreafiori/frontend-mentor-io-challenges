@@ -1,4 +1,4 @@
-<img src="https://github.com/catherineisonline/interactive-rating-component-frontendmentor/blob/main/images/project-preview.png?raw=true"></img>
+<img src="https://github.com/andreafiori/interactive-rating-component-frontendmentor/blob/main/images/project-preview.png?raw=true"></img>
 
 <h1 align="center">Interactive rating component
 </h1>

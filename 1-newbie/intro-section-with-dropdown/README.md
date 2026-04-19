@@ -1,4 +1,4 @@
-![Intro section with dropdown navigation](https://github.com/catherineisonline/intro-section-with-dropdown-navigation-frontendmentor/blob/main/images/project-preview.png?raw=true)
+![Intro section with dropdown navigation](https://github.com/andreafiori/intro-section-with-dropdown-navigation-frontendmentor/blob/main/images/project-preview.png?raw=true)
 
 # Intro section with dropdown navigation
 

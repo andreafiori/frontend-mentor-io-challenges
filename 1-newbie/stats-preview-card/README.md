@@ -1,4 +1,4 @@
-![Stats Preview Card Component](https://github.com/catherineisonline/stats-preview-card-component-frontendmentor/blob/main/images/project-preview.png?raw=true)
+![Stats Preview Card Component](https://github.com/andreafiori/stats-preview-card-component-frontendmentor/blob/main/images/project-preview.png?raw=true)
 
 <h1 align="center">Stats Preview Card Component</h1>
 

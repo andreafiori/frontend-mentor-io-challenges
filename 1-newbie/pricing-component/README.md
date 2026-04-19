@@ -1,4 +1,4 @@
-![Pricing Component With Toggle](https://github.com/catherineisonline/pricing-component-with-toggle-frontendmentor/blob/main/images/project-preview.png?raw=true)
+![Pricing Component With Toggle](https://github.com/andreafiori/pricing-component-with-toggle-frontendmentor/blob/main/images/project-preview.png?raw=true)
 
 <h1 align="center">Pricing Component With Toggle</h1>
 

@@ -1,4 +1,4 @@
-<img src="https://github.com/catherineisonline/product-preview-card-frontendmentor/blob/main/images/project-preview.png?raw=true"></img>
+<img src="https://github.com/andreafiori/product-preview-card-frontendmentor/blob/main/images/project-preview.png?raw=true"></img>
 
 <h1 align="center">Product preview card component
 </h1>
