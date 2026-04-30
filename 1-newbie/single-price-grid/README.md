@@ -1,15 +1,7 @@
-![Single Price Grid Component](https://github.com/andreafiori/single-price-grid-component-frontendmentor/blob/main/images/project-preview.png?raw=true)
+# Single Price Grid Component
 
-<h1 align="center">Single Price Grid Component</h1>
-
-<div align="center">
-
-[Solution](https://www.frontendmentor.io/solutions/single-price-grid-component-HI8IM79w_)
-| [Challenge](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc)
-
-Solution for a challenge from [frontendmentor.io](https://www.frontendmentor.io/)
-
-</div>
+- [Solution](https://www.frontendmentor.io/solutions/single-price-grid-component-HI8IM79w_)
+- [Challenge](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc)
 
 ## About The Project
 
@@ -38,7 +30,8 @@ The project was fun to build and did not require a lot of experience. I improved
 ## Useful resources
 
 1. [Figma](https://www.figma.com/) - Paste your design image to check the size of containers, width, etc.
-2. [Perfect Pixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi) - Awesome Chrome extension that helps you to match the pixels of the provided design.
+2. [Perfect Pixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi)
+3. Awesome Chrome extension that helps you to match the pixels of the provided design.
 
 ## Acknowledgments
 

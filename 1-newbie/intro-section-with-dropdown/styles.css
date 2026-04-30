@@ -148,7 +148,7 @@ nav ul button {
     cursor: pointer;
     z-index: 99;
     position: fixed;
-    margin-left: 85%;
+    margin-left: 78%;
 }
 header.active .hamburger {
     content: url("./images/icon-close-menu.svg");
